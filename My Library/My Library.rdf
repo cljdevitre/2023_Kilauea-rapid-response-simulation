@@ -53060,6 +53060,423 @@ Publisher: Citeseer</dc:description>
         <z:linkMode>1</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
+    <bib:Article rdf:about="#item_1454">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>253</prism:volume>
+                <dc:title>Earth and Planetary Science Letters</dc:title>
+                <dc:identifier>DOI 10.1016/j.epsl.2006.10.038</dc:identifier>
+                <prism:number>3</prism:number>
+                <dcterms:alternative>Earth and Planetary Science Letters</dcterms:alternative>
+                <dc:identifier>ISSN 0012-821X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yamamoto</foaf:surname>
+                        <foaf:givenName>Junji</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kagi</foaf:surname>
+                        <foaf:givenName>Hiroyuki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kawakami</foaf:surname>
+                        <foaf:givenName>Yoko</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hirano</foaf:surname>
+                        <foaf:givenName>Naoto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nakamura</foaf:surname>
+                        <foaf:givenName>Masaki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1455"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Raman spectroscopy</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>CO</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>fluid inclusion</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>mantle xenolith</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>geotherm</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mohorovicic discontinuity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Paleo-Moho depth determined from the pressure of CO2 fluid inclusions: Raman spectroscopic barometry of mantle- and crust-derived rocks</dc:title>
+        <dcterms:abstract>The density, and therefore the pressure, of CO2 fluid inclusions in minerals can be estimated from the Fermi diad splitting of Raman spectra of CO2. An accurate determination of the pressure of CO2 fluid inclusions enables the estimation of the depth origin of rocks from the deep Earth. A micro-Raman densimeter was applied to ultramafic–mafic xenoliths sampled along the Ohku coast of Oki-Dogo Island in the Sea of Japan (East Sea). The density of CO2 fluid inclusions in the mafic granulite was 1.02–1.05 g/cm3, while those of lherzolites were 0.98–1.02 g/cm3. In contrast, the density of CO2 fluid inclusions measured in olivine gabbro, clinopyroxenite, and harzburgite were lower ranging from 0.86–to 0.99 g/cm3. Taking into account the temperature condition estimated using a pyroxene thermometer, the mafic granulite originated from a depth of 27–30 km and the lherzolites from 25–29 km. The overlapping depth of 27–29 km can be interpreted as the depth including the Moho discontinuity under Oki-Dogo Island 3.3 Ma. This estimation is consistent with geophysical observations.</dcterms:abstract>
+        <dc:date>2007-01-30</dc:date>
+        <z:shortTitle>Paleo-Moho depth determined from the pressure of CO2 fluid inclusions</z:shortTitle>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0012821X06007825</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-08-01 21:18:44</dcterms:dateSubmitted>
+        <bib:pages>369-377</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1455">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1455/S0012821X06007825.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/abs/pii/S0012821X06007825</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-08-01 21:18:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1127/0935-1221/2011/0023-2150">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>23</prism:volume>
+                <dc:title>European Journal of Mineralogy</dc:title>
+                <dc:identifier>DOI 10.1127/0935-1221/2011/0023-2150</dc:identifier>
+                <prism:number>5</prism:number>
+                <dcterms:alternative>European Journal of Mineralogy</dcterms:alternative>
+                <dc:identifier>ISSN 0935-1221</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yamamoto</foaf:surname>
+                        <foaf:givenName>Junji</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Otsuka</foaf:surname>
+                        <foaf:givenName>Kazuhiko</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ohfuji</foaf:surname>
+                        <foaf:givenName>Hiroaki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ishibashi</foaf:surname>
+                        <foaf:givenName>Hidemi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hirano</foaf:surname>
+                        <foaf:givenName>Naoto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kagi</foaf:surname>
+                        <foaf:givenName>Hiroyuki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1457"/>
+        <dc:title>Retentivity of CO2 in fluid inclusions in mantle minerals</dc:title>
+        <dcterms:abstract>To assess the capacity of fluid inclusions in mantle minerals for CO2 retention, annealing experiments were conducted for two mantle xenoliths with CO2 inclusions for 8 days at 1000 °C under atmospheric pressure and fO2 of 10−11 MPa. The results show no marked decrease in the CO2 density of the CO2 inclusions for any examined minerals – olivine, orthopyroxene, clinopyroxene, or spinel. The CO2 density of CO2 inclusions in olivine in the present mantle xenoliths is lower than that in pyroxenes or spinel. Results of previous studies indicate that the low CO2 density in olivine is attributable to plastic deformation of olivine around CO2 inclusions during annealing in ascending magma.Results of this study present fundamental implications for deformation mechanisms that arise from internal pressure of fluid inclusions in silicate minerals. We calculated the stress field in minerals having a CO2 inclusion. Results show a steep stress gradient in the host around the inclusion. Such local stress in the mineral induces a local rise in the density of dislocations around the CO2 inclusions. The orthopyroxene used for this study showed a sparse distribution of dislocations around a CO2 inclusion, whereas olivine showed dense dislocations around CO2 inclusions, implying that the low CO2 density of the CO2 inclusions in olivine results from volume expansion of the CO2 inclusions through plastic deformation of the host mineral during annealing of the xenoliths in ascending magma.In this respect, constancy of CO2 density during the annealing experiments for all minerals is an interesting finding. Regarding olivines, the reduction of internal pressure of the CO2 inclusions or interaction of the dense dislocations possibly inhibits decrepitation or further volume expansion of the CO2 inclusions during annealing experiments. However, pyroxenes and spinel show higher and similar CO2 density, which reflects the resistance to plastic deformation and which indicates the effectiveness of CO2 inclusions in these minerals as a depth probe for mantle xenoliths.</dcterms:abstract>
+        <dc:date>2011-10-01</dc:date>
+        <z:libraryCatalog>Silverchair</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doi.org/10.1127/0935-1221/2011/0023-2150</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-08-01 21:21:07</dcterms:dateSubmitted>
+        <bib:pages>805-815</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1457">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1457/Retentivity-of-CO2-in-fluid-inclusions-in-mantle.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.geoscienceworld.org/eurjmin/article-abstract/23/5/805/69594/Retentivity-of-CO2-in-fluid-inclusions-in-mantle</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-08-01 21:21:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.degruyter.com/document/doi/10.2138/am-2000-1007/html">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1945-3027"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Viti</foaf:surname>
+                        <foaf:givenName>Cecilia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Frezzotti</foaf:surname>
+                        <foaf:givenName>Maria-Luce</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Re-equilibration of glass and CO2 inclusions in xenolith olivine: A TEM study</dc:title>
+        <dcterms:abstract>CO 2 -rich fluid inclusions were observed in olivine from mantle xenoliths from the Island of Tenerife, Canary Islands. Inclusions that are present in deformed olivine porphyroclasts consist of CO 2 fluids + minor high-alkali, silica-rich glass ± Ni-Fe sulfides. Homogenization temperature distributions reveal that most of the inclusions (originally trapped at mantle conditions) re-equilibrated to lower density values. Transmission electron microscope (TEM) studies indicate that most fluid inclusions appear as perfectly euhedral negative crystals, with variable shape (from prismatic to equant), size (from &amp;lt;0.02 to 0.15 μm), and inner texture. Different kinds of negative crystals may coexist in the same trail of inclusions. Inclusions are commonly connected to structural defects (dislocation arrays formed after fracture healing), which represent a possible path for leakage of the fluid phase. These microstructures, undetectable by optical microscopy, could have modified the original composition and/or density of the inclusions through CO 2 diffusion; consequently, they should be taken into account for the correct interpretation of microthermometric results.</dcterms:abstract>
+        <dc:date>2000-10-01</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Re-equilibration of glass and CO2 inclusions in xenolith olivine</z:shortTitle>
+        <z:libraryCatalog>www.degruyter.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.degruyter.com/document/doi/10.2138/am-2000-1007/html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-08-01 21:22:35</dcterms:dateSubmitted>
+        <dc:rights>De Gruyter expressly reserves the right to use all content for commercial text and data mining within the meaning of Section 44b of the German Copyright Act.</dc:rights>
+        <dc:description>Publisher: De Gruyter</dc:description>
+        <bib:pages>1390-1396</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1945-3027">
+        <prism:volume>85</prism:volume>
+        <dc:title>American Mineralogist</dc:title>
+        <dc:identifier>DOI 10.2138/am-2000-1007</dc:identifier>
+        <prism:number>10</prism:number>
+        <dc:identifier>ISSN 1945-3027</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://doi.org/10.2113/gsecongeo.63.7.715">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>63</prism:volume>
+                <dc:title>Economic Geology</dc:title>
+                <dc:identifier>DOI 10.2113/gsecongeo.63.7.715</dc:identifier>
+                <prism:number>7</prism:number>
+                <dcterms:alternative>Economic Geology</dcterms:alternative>
+                <dc:identifier>ISSN 0361-0128</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roedder</foaf:surname>
+                        <foaf:givenName>Edwin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Skinner</foaf:surname>
+                        <foaf:givenName>Brian J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Experimental evidence that fluid inclusions do not leak</dc:title>
+        <dcterms:abstract>New experiments were performed on small quartz crystals and cleavage fragments of sphalerite and calcite, none requiring sawing, grinding or polishing. Quartz samples were run at external water pressures of 2000 and 4000 bars, and temperatures from 100 degrees to 400 degrees C for up to 17 days. Internal pressures exceeded external by 2000-3000 bars in some runs. 'From this work and a review of the literature [authors] conclude that most inclusions have not suffered major leakage. Some previous experiments indicating leakage may be explained by microfractures introduced during sample preparation.' Leakage, by diffusion, of substances like hydrogen is not precluded.</dcterms:abstract>
+        <dc:date>1968-11-01</dc:date>
+        <z:libraryCatalog>Silverchair</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.2113/gsecongeo.63.7.715</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-08-01 21:38:35</dcterms:dateSubmitted>
+        <bib:pages>715-730</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_1460">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>280</prism:volume>
+                <dc:title>Amer. J. Sci., A</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kirby</foaf:surname>
+                        <foaf:givenName>Stephen H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Green</foaf:surname>
+                        <foaf:givenName>Harry W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Dunite xenoliths from Hualalai volcano: evidence for mantle diapiric flow beneath the island of Hawaii</dc:title>
+        <dc:date>1980</dc:date>
+        <bib:pages>550-575</bib:pages>
+    </bib:Article>
+    <bib:BookSection rdf:about="urn:isbn:978-0-12-409548-9">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-0-12-409548-9</dc:identifier>
+                <dc:title>Reference Module in Earth Systems and Environmental Sciences</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Elsevier</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wieser</foaf:surname>
+                        <foaf:givenName>Penny E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gleeson</foaf:surname>
+                        <foaf:givenName>Matthew L. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Matthews</foaf:surname>
+                        <foaf:givenName>Simon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>DeVitre</foaf:surname>
+                        <foaf:givenName>Charlotte</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gazel</foaf:surname>
+                        <foaf:givenName>Esteban</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1462"/>
+        <link:link rdf:resource="#item_1463"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Melt inclusions</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Raman spectroscopy</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Fluid inclusions</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Experimental petrology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thermodynamics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Hygrometry</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Plagioclase</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Amphibole</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Chemometry</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>FAIR research framework</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>MELTS modeling</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mineral thermobarometry</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Pyroxene</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Determining the pressure-temperature-composition (P-T-X) conditions of magma storage</dc:title>
+        <dcterms:abstract>Determining the pressures and temperatures at which melts are stored in the crust and upper mantle, and the major element composition, redox state and volatile contents of these melts, is vital to constrain the structure and dynamics of magmatic plumbing systems. In turn, constraining these parameters helps when interpretating periods of unrest at active volcanoes, and when deciphering the geochemical and structural evolution of the Earth's lithosphere. We review common thermobarometers, hygrometers and chemometers based on mineral and/or liquid compositions, before discussing recent advances in melt and fluid inclusion barometry, Raman-based elastic thermobarometry, and thermodynamic modeling methods. Where possible, we investigate the accuracy and precision of each technique, and the implications for the application of each method to different research questions.</dcterms:abstract>
+        <dc:date>2024-01-01</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/B9780323997621000243</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-08-01 22:37:21</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1016/B978-0-323-99762-1.00024-3</dc:description>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_1462">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1462/B9780323997621000243.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/abs/pii/B9780323997621000243</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-08-01 22:37:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_1463">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1463/Wieser et al. - 2024 - Determining the pressure-temperature-composition (.pdf"/>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://eartharxiv.org/repository/object/5833/download/13792/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-08-01 22:37:30</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_2">
         <dc:title>AirQuality</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1021/acs.est.8b06392"/>
